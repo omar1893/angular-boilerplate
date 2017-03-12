@@ -1,1 +1,1 @@
-# angular-seed
+# Angular-Boilerplate
